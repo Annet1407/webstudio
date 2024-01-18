@@ -1,0 +1,17 @@
+.container-card{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 50px;
+    
+}
+
+.card:hover {
+    border-color: rgb(13, 110, 253);
+    box-shadow: 0px 0px 10px 2px rgb(13, 110, 253);
+  }
+
+
+.card-uslugi{
+    background-image: url(/fonts/fon\ red.jpg);
+}
